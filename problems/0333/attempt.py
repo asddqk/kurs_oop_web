@@ -1,0 +1,7 @@
+n,m,k=map(str, input().split())
+e1=set(list(n))
+e2=set(list(m))
+e3=set(list(k))
+r=sorted(e1&e2&e3)
+print(len(r))
+print(*r)

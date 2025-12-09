@@ -1,0 +1,6 @@
+N=int(input())
+T=list(map(int, input().split()))
+T=sorted(T)
+Vin=sum(T[N//2:])
+Sum=sum(T)
+print(Vin*2-Sum)

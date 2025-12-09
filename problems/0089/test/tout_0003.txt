@@ -1,0 +1,2 @@
+The fastest train is "Slow Train 1".
+Its speed is 27 km/h, approximately.

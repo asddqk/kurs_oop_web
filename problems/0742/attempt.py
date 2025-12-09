@@ -1,0 +1,1 @@
+print(3**sum([i for i in range(int(input()))]))
